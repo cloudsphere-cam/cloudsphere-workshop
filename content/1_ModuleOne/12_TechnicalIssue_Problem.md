@@ -1,10 +1,10 @@
 ---
-title: "Technical Issue / Problem" # MODIFY THIS TITLE
+title: "Challenge Specifics" # MODIFY THIS TITLE
 chapter: true
 weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# Technical Issue / Problem <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
+# Challenge Specifics 
 
 ## Submodule Two Heading <!-- MODIFY THIS SUBHEADING -->
 This paragraph block should be an introduction to the technical issue the solution is facing. An example of this can be seen at the bottom of this page. <br>

@@ -1,13 +1,15 @@
 ---
-title: "Who We Are" # MODIFY THIS TITLE
+title: "About CloudSphere" # MODIFY THIS TITLE
 chapter: true
 weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# Who Are We? <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
+# About CloudSphere <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
 
-## Submodule Three Heading <!-- MODIFY THIS SUBHEADING -->
-This paragraph block should be a brief introduction to the partner, their history, goals, partnerships, and accolades. <br>
+## A little about us... <!-- MODIFY THIS SUBHEADING -->
+CloudSphere was founded through a merger of two companies, Hypergrid and iQuate. With legacy roots in cloud asset management and software asset management, an industry-leading cloud governance was created to meet the needs of businesses. 
+
+CloudSphere is an AWS ISV Partner and part of the APN Partner program with competencies in Migration & Modernization and Cloud Operations Software.  CloudSphere can be procured through the AWS Marketplace or via Private Offer.<br>
 
 {{% notice info %}}
 <p style='text-align: left;'>
@@ -15,5 +17,5 @@ This paragraph block should be a brief introduction to the partner, their histor
 </p>
 {{% /notice %}}
 
-### Next Section Heading <!-- MODIFY THIS HEADING -->
-This paragraph block can optionally be utilized to lead into the next section of the workshop.
+### Workshop Prerequisites 
+Next, we'll review some workshop prerequisites to make sure that you have the necessary access

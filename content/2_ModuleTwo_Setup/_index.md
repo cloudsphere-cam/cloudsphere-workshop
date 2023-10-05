@@ -1,14 +1,22 @@
 ---
-title: "Self-Guided Workshop Setup" # MODIFY THIS TITLE IF APPLICABLE
+title: "Environment Scanning" # MODIFY THIS TITLE IF APPLICABLE
 chapter: true
 weight: 2
 ---
 
-# Self-Guided Workshop Setup <!-- MODIFY THIS HEADING -->
+# Virtual Appliance Registration and Scanning<!-- MODIFY THIS HEADING -->
 
-## Module Two Heading <!-- MODIFY THIS SUBHEADING -->
+## Workshop Highlights <!-- MODIFY THIS SUBHEADING -->
 
-This paragraph block should be an introduction to the module about the self-guided method of setting up the workshop. Some typical examples of the steps in this process this will involve setting up an AWS account, signing up for the partner platform, requesting marketplace credits, and provisioning both IAM roles and necessary AWS services. As with everything else, submodules can be added by copying and pasting files. An example of content guidance can be found at the bottom of the page. Extra module files can be added as necessary.
+In this Workshop, you complete a series of steps in order to prepare to scan an environment using the CloudSphere Platform.  By the end of this section, you will have scanned a sample environment and experienced the data collection process first-hand.
+
+The steps will complete include:
+1. Registering the Virtual Appliance
+2. Configuring the Keychain
+3. Configuring the Scan Scope
+4. Configuring the Scan Job
+5. Starting a Scan Job
+6. Basic output review
 
 {{% notice info %}}
 <p style='text-align: left;'>
@@ -22,23 +30,8 @@ This paragraph block should be an introduction to the module about the self-guid
 The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
 {{% /notice %}}
 
-### Next Section Heading <!-- MODIFY THIS HEADING -->
-This paragraph block can optionally be utilized to lead into the next section of the workshop.
+### Registering the Virtual Appliance <!-- MODIFY THIS HEADING -->
+The first step in the process will be registering the Virtual Appliance.
 
 
-#### Example of content guidance
 
-# Self-Guided Workshop
-
-
-Welcome to the Self Guided Setup section! This workshop requires an AWS account where there is IAM user/identity that has proper permissions to set up the necessary AWS components to work through the workshop. Worried about costs associated with this workshop? Don’t worry, go to the next page and request some AWS credits to pay for any costs that may be incurred through this workshop!
-
-Here is a preview of what we will be setting up:
-
-<ol>
-    <li>Creating an AWS account with proper permissions</li>
-    <li>Create a workspace</li>
-    <li>Creating an IAM role for your workspace</li>
-    <li>Attaching an IAM Role</li>
-    <li>Configure Workshop Specific Requirements</li>
-</ol>
