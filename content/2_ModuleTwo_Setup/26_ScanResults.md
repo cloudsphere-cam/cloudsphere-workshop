@@ -4,12 +4,9 @@ chapter: true
 weight: 6 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
-<!-- MORE SUBMODULES CAN BE ADDED TO DIVIDE UP THE SETUP INTO SMALLER SECTIONS -->
-<!-- COPY AND PASTE THIS SUBMODULE FILE, RENAME, AND CHANGE THE CONTENTS AS NECESSARY -->
-
 # Scan Results Review
 
-Once the discovery is done, all the data (servers and services scanned) will be populated in the IT Explorer view in the UI.
+**Once the discovery is done, all the data (servers and services scanned) will be populated in the IT Explorer view in the UI.**
 
 From the computer systems, processes, and communication details captured, the following sub-sections of data are created:
 * Services
@@ -18,8 +15,12 @@ From the computer systems, processes, and communication details captured, the fo
 * Applications
 * Found Applications
 
+![IT Universe](/images/ituniverse.PNG)
+
 ### Services
 Services identify groups of related applications that provide one or more functions.  
+
+![Services](/images/services.PNG)
 
 For instance, a Microsoft Exchange system is made of a number of Exchange Servers and Stores that together, form a single system providing an email Service. 
 The set of WebServers, Application Servers, and Database Servers provide a merchant WebSite from an eCommerce Service.
@@ -29,6 +30,8 @@ The CloudSphere Platform allows capturing Physical and Virtual Servers, Cloud In
 
 * Servers overview tab - contains the details of the server, including the OS details and hardware details.
 * Communication tab - provides the communication of the server with other servers and applications.
+
+![Servers](/images/servers.PNG)
 
 ### Found Groups
 
@@ -50,7 +53,7 @@ The CloudSphere Platform allows capturing Physical and Virtual Servers, Cloud In
 </p>
 {{% /notice %}}
 
-#### Great Job!! <!-- MODIFY THIS HEADING -->
+#### **Great Job!!** <!-- MODIFY THIS HEADING -->
 You've completed the first module of the Migration Planning workshop.  From here, we'll move on to the second module, Deep Data Exploration.  We hope you found this training helpful and look forward to engaging in the second portion of this workshop!
 
 

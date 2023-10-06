@@ -14,40 +14,62 @@ Since the virutal appliance is deployed, we now need to register the virtual app
 
 Upon logging in to the appliance, the registration screen will be displayed.  Copy the unique Appliance ID to your clipboard.
 
+![Appliance ID](/images/applianceid.png)
+
 ### Generate License Key
 
-Navigate to the CloudSphere Platform at https://iq3.cloudsphere.com/ and enter "level100training" as the Organization and complete the login process using the credentials provided in your access email.
+Navigate to the CloudSphere Platform at the address provided in your access email and enter the provided Organization to designate the proper tenant.  
+
+![Org Selection](/images/orgselection.PNG)
+
+On the next screen, you can complete the login process using the credentials provided in your access email.
+
+![Credentials](/images/credentials.PNG)
 
 Navigate to the Settings menu in the (bottom left) corner of the UI and click on the Appliances sub-menu.  
 
+![Settings Appliances](/images/settingsappliances.PNG)
+
 Click the Generate License button on the (top left center) of the UI to open the license creation window.
 
+![License Creation](/images/licensecreation.PNG)
+
 Paste the Appliance ID in the first field and name the appliance appropriately (suggested conventions?) then click the Create Appliance button to generate the License.  Copy this license to your clipboard with the icon in the lower right hand corner of the field.  
+
 
 ### Registering the Appliance
 
 With the License copied from the last step, navigate back to the browser tab with the Virtual Appliance and paste the License in to the License Key field and click next. 
 
+![Paste License](/images/pastelicense.PNG)
+
 Select Finish on the next screen and the services running on the Virtual Appliance will restart to complete the registration process.
 
+![Complete Registration](/images/completeregistration.PNG)
+
 Navigate back to the CloudSphere Platform in the Appliances section to confirm the Appliance registration was successful.  
+
+![Confirm Registration](/images/settingsappliances.PNG)
 
 Congratulations! You have successfully installed and registered your CloudSphere Virtual Appliance.
 
 
-Additional details related to AWS appliance deployment and configuration available here:
-• Instructions for AWS Appliance installation - Appliance Installation - AWS https://docs.cloudsphere.com/hc/en-us/articles/5090846548123-Appliance-Installation-AWS
 
-• For Configuration use the following - Configure the Virtual Appliance https://docs.cloudsphere.com/hc/en-us/articles/5090275699995-Configure-the-Virtual-Appliance
+**Additional details related to AWS appliance deployment and configuration available here:**
 
-Additional details related to deployment in non-AWS environments available at the following links
-• VMware: https://docs.cloudsphere.com/hc/en-us/articles/5090855184539-Appliance-Installation-VMware
+• *Instructions for AWS Appliance installation* - Appliance Installation - AWS https://docs.cloudsphere.com/hc/en-us/articles/5090846548123-Appliance-Installation-AWS
 
-• Hyper-V: https://docs.cloudsphere.com/hc/en-us/articles/5090860657819-Appliance-Installation-Hyper-V
+• *For Configuration use the following* - Configuring the Virtual Appliance https://docs.cloudsphere.com/hc/en-us/articles/5090275699995-Configure-the-Virtual-Appliance
 
-• Azure: https://docs.cloudsphere.com/hc/en-us/articles/5090858177307-Appliance-Installation-Azure-Marketplace-
+**Additional details related to deployment in non-AWS environments available at the following links**
 
-• GCP: https://docs.cloudsphere.com/hc/en-us/articles/5090847564315-Appliance-Installation-GCP
+• *VMware*: https://docs.cloudsphere.com/hc/en-us/articles/5090855184539-Appliance-Installation-VMware
+
+• *Hyper-V*: https://docs.cloudsphere.com/hc/en-us/articles/5090860657819-Appliance-Installation-Hyper-V
+
+• *Azure*: https://docs.cloudsphere.com/hc/en-us/articles/5090858177307-Appliance-Installation-Azure-Marketplace-
+
+• *GCP*: https://docs.cloudsphere.com/hc/en-us/articles/5090847564315-Appliance-Installation-GCP
 
 
 {{% notice info %}}
