@@ -1,12 +1,12 @@
 ---
-title: "Prerequisites" # MODIFY THIS TITLE
+title: "Coming Soon" # MODIFY THIS TITLE
 chapter: true
 weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
 # Prerequisites for AWS Cloud Quick Assess
 
-In order to scan an client environment, 
+
 
 {{% notice info %}}
 <p style='text-align: left;'>
@@ -14,6 +14,6 @@ In order to scan an client environment,
 </p>
 {{% /notice %}}
 
-#### Initiating the Cloud Job
-Now that you understand the prerequisites, you are ready to start your scan job
+#### Coming Soon
+
 

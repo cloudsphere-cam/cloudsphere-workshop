@@ -1,7 +1,7 @@
 ---
-title: "Services Explorer" # MODIFY THIS TITLE
+title: "Services Explorer" 
 chapter: true
-weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 2 
 ---
 
 # Using the Exporer UI to Examine Services
@@ -17,7 +17,7 @@ Services in our tool refers to a group of applications and their underlying infr
 When moving a business service to the cloud, it's imperative that you understand all facets of the service including the supporting applicaitons and infrastructure, but also the underlying communication and dependencies of that application.  It's very common for applications or services to run on shared resources, which could create business risk if not fully documented.  
    
 
-###Services Explorer Home
+### Services Explorer Home
 
 Selecting the Services sub-menu in the left nav menu will bring you to the Services home view.  From here, you will find a detailed listing of each service identified as part of the scanning.
 
@@ -39,27 +39,31 @@ Similar to the Explorer view of servers and applications, the services detail in
 
 Again, you can use the gear icon to show extended views in the communication and depencies tabs, to help uncover hidden relationships to minimize risk during a cloud migration. 
 
-![Services Dependencies Extended](/images/servicesdepex.PNG)
+![Services Dependencies Extended](/images/servicedepex.PNG)
 
 Moving back to the main services page, we can see the start of our migration planning already coming together.  We are starting to see the various wave groupings associated with each service and can start develop our migration waves with minimal risk.  
 
 ![Services Home](/images/serviceshome.PNG)
 
-Let's go ahead and pick a service to explore further and talk about how we'd start planning on moving that service.  There is a service called Data_Logistics_Platform that has a wave 1 value assigned to it and is flagged as approved.  
+Let's go ahead and pick a service to explore further and talk about how we'd start planning on moving that service.  There is a service called PayRoll that has a wave 1 value assigned to it and is flagged as approved.  
 
-![Data Logistics](/images/datalogistics.PNG)
+![PayRoll](/images/payroll.PNG)
 
-Double clicking on this service and navigating to the Dependencies tab shows us this service is comprised of two applications on a single virtual machine.  
+Double clicking on this service and navigating to the Dependencies tab shows us this service is comprised of four applications on two virtual machines.  
 
-![Data Logistics Dep](/images/datalogisticsdep.PNG)
+![PayRoll Dep](/images/payrolldep.PNG)
+
+Clicking in to the Extended View shows there are no hidden dependencies,  making this an easy service to move and why the system has assigned a Wave 1 value.  
+
+![PayRoll Dep Ex](/images/payrolldepex.PNG)
 
 Taking a look at another service, like our Elastic ELK Stack, shows an entirely different type of service.  This example highlights the combination of ElasticSearch, LogStash and Kibana that make up the ELK stack, as well as the five VMs supporting those applications. 
 
-![ELK Stack](/images/elkstack.PNG)
+![ELK Stack](/images/elkstackdep.PNG)
 
 Selecting the Extended View in the Dependencies tab uncovers a hidden connection to our demo service application, which would "break" if we attempted to move the ELK Stack alone.  
 
-![ELK Stack Dep](/images/elkstackdep.PNG)
+![ELK Stack Dep](/images/elkstackdepex.PNG)
 
 Similar levels of complexity are uncovered in the Extended View of the Communication tab as well.  This shows us that we need to approach this service with caution to minimize risk during a migration and is the primary reason this is designated as a Wave 3 service.  
 
@@ -69,12 +73,6 @@ When prioritizing wave planning, starting with the more simple and isolated serv
 
 ![Services Home Sorted by Wave](/images/serviceshomesorted.PNG)
 
-
-{{% notice info %}}
-<p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
 
 #### Insight Consoles
 Keep these examples in mind as we move to the next section, where we'll examine these services and more in the Insight Consoles

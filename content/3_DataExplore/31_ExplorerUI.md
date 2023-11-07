@@ -1,7 +1,7 @@
 ---
-title: "Using the Explorer UI" # MODIFY THIS TITLE
+title: "Using the Explorer UI" 
 chapter: true
-weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 1 
 ---
 
 # Using the Explorer UI
@@ -12,7 +12,7 @@ weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 
 Upon logging in to the CloudSphere tenant using the credentials provided in your workshop welcome email, you will be taken to screen within the Explorer UI section called the IT Universe.
 
-![IT Universe](/images/ituniverse.PNG)
+![IT Universe](/images/ituniverse2.PNG)
 
 The IT Universe provides a high level summary of the environment(s) that have been scanned by the platform.  You'll see logical groups across environment types, including Development, Testing, Staging and Production.  Within those groups, there will be additional detail related to the services, applications, containers and servers within each enviroment.
 
@@ -57,6 +57,8 @@ Navigating to the Metrics tab will provided you with detailed charts related to 
 
 ![Server metrics](/images/servermetrics.PNG)
 
+![Server metrics 2](/images/servermetrics2.PNG)
+
 There are even more tabs available, so feel free to explore all of the tabs to see the level of detail provided for each server in the environment.  
 
 ### Explorer Applications
@@ -75,12 +77,7 @@ Furthermore, double-clicking any of the applications listed will take you to an 
 
 You'll find an icon in the lower left of the screen that looks like a large gear next to two smaller ones.  If you click that icon and check the box labeled Extended View, you'll be able to see any additional applications tied to the underlying infrastructure, as well as possible hidden communication or dependencies assocaited with the application inspecting.
 
-
-{{% notice info %}}
-<p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
+![Application detail extended](/images/appdetailextended.PNG)
 
 #### Exploring Services
 Now that your understand how to use the Explorer UI to review the IT Universe, Servers and Applications, we'll take an in-depth look at Services

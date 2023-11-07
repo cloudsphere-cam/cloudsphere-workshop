@@ -12,11 +12,6 @@ IT estates are increasingly complex and are typically spread across physical and
 
 In addition to a user-friendly UI for data exploration, CloudSphere provide a wealth of valuable data via our interactive Insights Consoles.  
 
-{{% notice info %}}
-<p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
 
 ### About CloudSphere
 Next, we'll tell you a little bit about our company and how we deliver value in the AWS Ecosystem
