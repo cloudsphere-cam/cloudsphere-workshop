@@ -18,11 +18,11 @@ The Modernization & Optimization portion will focus on the AWS Cloud Quick and P
 
 #### This workshop has been broken down in the following four modules for your knowledge and training:
 
-**Module 1:** Appliance Deployment and Scan *(20 minutes)* 
+**Module 1:** Appliance Deployment and Scan *(25 minutes)* 
 
-**Module 2:** Migration Data Exploration *(15 minutes)* 
+**Module 2:** Migration Data Exploration *(25 minutes)* 
 
-**Module 3:** AWS Cloud Quick Assessment *(coming soon)* 
+**Module 3:** AWS Cloud Quick Assessment *(15 minutes)* 
 
 **Module 4:** AWS Cloud PLUS Assessment *(coming soon)* 
 

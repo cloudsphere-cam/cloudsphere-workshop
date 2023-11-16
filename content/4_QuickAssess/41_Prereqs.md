@@ -1,19 +1,24 @@
 ---
-title: "Coming Soon" # MODIFY THIS TITLE
+title: "Prerequisites" # 
 chapter: true
-weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 1 # 
 ---
 
-# Prerequisites for AWS Cloud Quick Assess
+# Prerequisites for AWS Cloud Quick Assessment
 
+**Before we get started, we'll quickly review the basic prerequisites for utilizing the AWS Cloud Quick Assessment**
 
+### Prerequisites
 
-{{% notice info %}}
-<p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
+1. Existing AWS subscription(s)
+2. IAM permissions to create a new user account with "ReadOnly" permissions
+3. Access provisioned in a CloudSphere tenant
+4. Less than an hour of time
 
-#### Coming Soon
+If you don't already have access to the CloudSphere tenant, you can request access using the form at the following link:  
+
+For this workshop, we'll be walking through what a deployment would look like, 
+
+#### Let's get started
 
 

@@ -10,10 +10,10 @@ In this Workshop, you will be using the CloudSphere Platform to explore the data
 
 The workshop will cover:
 1. Using the Explorer UI
-2. Detailed review of example Services in Explorer
-3. Detailed review of example Services in the Insight Consoles
-4. Creating a wave plan
-5. Managing a Migration
+2. Reviewing Services in the Explorer UI
+3. Detailed review of the main Insight Consoles
+4. High level review of the Optimization and Modernization Consoles
+
 
 {{% notice warning %}}
 The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
