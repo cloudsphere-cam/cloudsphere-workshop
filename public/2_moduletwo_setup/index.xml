@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment Scanning on English</title>
+    <link>/2_moduletwo_setup.html</link>
+    <description>Recent content in Environment Scanning on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/2_moduletwo_setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Registering the Virtual Appliance</title>
+      <link>/2_moduletwo_setup/21_applianceregistration.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/21_applianceregistration.html</guid>
+      <description>Registering the Virtual Appliance In order to scan an client environment, a virtual appliance must be deployed in the target network or segment. We have already deployed the appliance in our AWS sandbox using our Amazon Machine Image (AMI file) available in the AMI directory.
+Capture Appliance ID Since the virutal appliance is deployed, we now need to register the virtual appliance. Navigate to the IP address provided in your access email (?</description>
+    </item>
+    
+    <item>
+      <title>Configuring the Keychain</title>
+      <link>/2_moduletwo_setup/22_configkeychain.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/22_configkeychain.html</guid>
+      <description>Configuring the Keychain In order to get accurate and detailed information about servers and services, the Application Discovery requires server Credentials to access information. Keychains are lists of Credentials.
+Create a new Keychain First, we&amp;rsquo;ll need to create a new Keychain. Navigate to the Discovery menu on the (left nav bar) and select the sub-menu item title Keychains.
+Click the blue plus sign button in the upper right hand corner to start the Keychain creation process.</description>
+    </item>
+    
+    <item>
+      <title>Creatinging a Scan Scope</title>
+      <link>/2_moduletwo_setup/23_configscanscope.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/23_configscanscope.html</guid>
+      <description>Creatinging a Scan Scope CloudSphere CAM discovers devices that exist in your IT universe by executing Scan Jobs. The Scan jobs scan endpoints within a specified network boundary (Subnets, IP Ranges, IPs), which is defined using Scan Scope(s).
+While configuring a Scan Job we first need to identify and define Scan Scope(s), and eventually add them to it.
+A Scan Scope provides a list of target IP addresses or hostnames that we want to be scanned while we execute a Scan Job.</description>
+    </item>
+    
+    <item>
+      <title>Configuring the Scan Job</title>
+      <link>/2_moduletwo_setup/24_configscanjob.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/24_configscanjob.html</guid>
+      <description>Configuring the Scan Job Now that we have our Keychain and Scope configured, we can configure our Scan Job
+Create New Scan Job Navigate to the Discovery menu in the left nav and click on the sub-menu titled Scan Jobs.
+In the upper right hand corner, click the blue plus sign.
+Add a name to the job and a description as desired and click the button titled Create New Scan Job</description>
+    </item>
+    
+    <item>
+      <title>Start Scan Job</title>
+      <link>/2_moduletwo_setup/25_startscanjob.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/25_startscanjob.html</guid>
+      <description>Starting your Scan Job Now that you have configured your Scan Job, it&amp;rsquo;s time to scan the environment.
+Executing a Scan Job Select the Scan Job created in the previous step
+Click the large blue Start button in the upper left side of the screen
+You can also cancel the Scan Job from this screen at any time.
+Reviewing a Scan Job Status Once the Scan Job kicks off, you&amp;rsquo;ll see a real-time progress bar indicating the status of the Scan Job</description>
+    </item>
+    
+    <item>
+      <title>Scan Results Review</title>
+      <link>/2_moduletwo_setup/26_scanresults.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/26_scanresults.html</guid>
+      <description>Scan Results Review Once the discovery is done, all the data (servers and services scanned) will be populated in the IT Explorer view in the UI.
+From the computer systems, processes, and communication details captured, the following sub-sections of data are created:
+Services Servers Found Groups Applications Found Applications Services Services identify groups of related applications that provide one or more functions.
+For instance, a Microsoft Exchange system is made of a number of Exchange Servers and Stores that together, form a single system providing an email Service.</description>
+    </item>
+    
+  </channel>
+</rss>

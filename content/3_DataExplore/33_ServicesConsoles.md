@@ -1,10 +1,10 @@
 ---
-title: "Insight Consoles" 
+title: "Main Insight Consoles" 
 chapter: true
 weight: 3 
 ---
 
-# Insight Consoles
+# Main Insight Consoles
 **In addition to the Explorer UI, CloudSphere has an extensive collection of detailed dashboards and reports that provide valuable insight related to your scanned environment(s)**
 
 ### Insight Consoles Overview

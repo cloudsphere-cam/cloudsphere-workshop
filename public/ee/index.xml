@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Modernization Workshop Base Template on Event Engine Setup</title>
+    <link>/ee/</link>
+    <description>Recent content in AWS Modernization Workshop Base Template on Event Engine Setup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ee</language><atom:link href="/ee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Event Engine</title>
+      <link>/ee/2_moduletwo_setup/21_awseventengine.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/2_moduletwo_setup/21_awseventengine.html</guid>
+      <description>AWS Event Engine Attending an AWS hosted event To complete this workshop, you will be provided with an AWS account via the AWS Event Engine service. The AWS staff will send an Event Engine dashboard link with a hash parameter, please follow the below instructions on how to get access into your account.
+If you are currently logged in to an AWS Account, you can log out using this link (https://aws.</description>
+    </item>
+    
+    <item>
+      <title>Foreword</title>
+      <link>/ee/1_moduleone/11_foreword.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/11_foreword.html</guid>
+      <description>Foreword Submodule One Heading This paragraph block should be an explanation of an existing problem and how the partner has worked to achieve a solution for it. Example content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.
+Example Content Guidance The nature of software development has fundamentally changed Teams and organizations are releasing code at a record breaking pace and only getting faster.</description>
+    </item>
+    
+    <item>
+      <title>Partner Setup Instructions</title>
+      <link>/ee/3_modulethree/31_partnersetup.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/3_modulethree/31_partnersetup.html</guid>
+      <description>Partner Setup Instructions Submodule One Heading This paragraph block should be an introduction to the submodule.
+Submodule One Subheading This paragraph block should be utilized to start the submodule. Next Section OR Conclusion Heading This paragraph block can be utilized to lead into the next section of the workshop (which might be a conclusion) or be a conclusion itself.
+Example Guidance Content Below Do you require attendees to sign up for things?</description>
+    </item>
+    
+    <item>
+      <title>Technical Issue / Problem</title>
+      <link>/ee/1_moduleone/12_technicalissue_problem.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/12_technicalissue_problem.html</guid>
+      <description>Technical Issue / Problem Submodule Two Heading This paragraph block should be an introduction to the technical issue the solution is facing. An example of this can be seen at the bottom of this page. Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.
+Example of content guidance Deploy Without Worry Deployments with Kubernetes? Kubernetes (k8s) is a container orchestration platform allowing organizations to scale their services and workloads quickly.</description>
+    </item>
+    
+    <item>
+      <title>Who We Are</title>
+      <link>/ee/1_moduleone/13_whoweare.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/13_whoweare.html</guid>
+      <description>Who Are We? Submodule Three Heading This paragraph block should be a brief introduction to the partner, their history, goals, partnerships, and accolades. Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Prerequisites</title>
+      <link>/ee/1_moduleone/14_workshopprerequisites.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/14_workshopprerequisites.html</guid>
+      <description>Workshop Prerequisites Submodule Four Heading This paragraph block should be an introduction to the submodule. Are there any prerequisites the user must perform to begin the workshop? Do they need to sign up for any external accounts or install any tools? An example of content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Next Steps</title>
+      <link>/ee/1_moduleone/15_nextsteps.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/15_nextsteps.html</guid>
+      <description>Workshop Next Steps Submodule Five Heading This paragraph block should be an brief explanation of the next steps to take after the prerequisites have been set up. Diagrams or code samples can be shown to give a visual explanation of what will be taking place during the building of the solution. An example of content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+  </channel>
+</rss>

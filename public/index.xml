@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migration Planning and Optimization &amp; Modernization with CloudSphere on English</title>
+    <link>/</link>
+    <description>Recent content in Migration Planning and Optimization &amp; Modernization with CloudSphere on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partner Setup Instructions</title>
+      <link>/3_modulethree/31_partnersetup.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3_modulethree/31_partnersetup.html</guid>
+      <description>Partner Setup Instructions Submodule One Heading This paragraph block should be an introduction to the submodule.
+Submodule One Subheading This paragraph block should be utilized to start the submodule. Next Section OR Conclusion Heading This paragraph block can be utilized to lead into the next section of the workshop (which might be a conclusion) or be a conclusion itself.
+Example Guidance Content Below Do you require attendees to sign up for things?</description>
+    </item>
+    
+    <item>
+      <title>Registering the Virtual Appliance</title>
+      <link>/2_moduletwo_setup/21_applianceregistration.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/21_applianceregistration.html</guid>
+      <description>Registering the Virtual Appliance In order to scan an client environment, a virtual appliance must be deployed in the target network or segment. We have already deployed the appliance in our AWS sandbox using our Amazon Machine Image (AMI file) available in the AMI directory.
+Capture Appliance ID Since the virutal appliance is deployed, we now need to register the virtual appliance. Navigate to the IP address provided in your access email (?</description>
+    </item>
+    
+    <item>
+      <title>Workshop Background</title>
+      <link>/1_moduleone/11_foreword.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/11_foreword.html</guid>
+      <description>Workshop Background The Market Challenge IT estates are increasingly complex and are typically spread across physical and virtual infrastructure. CloudSphere gives AWS and it&amp;rsquo;s partners complete IT estate inventories, along with mapping of communications and dependencies. With these inventories and maps, clients can move to the cloud with confidence, while minimizing risk.
+Challenge Specifics Next, we&amp;rsquo;ll get in to the specifics of the challenges</description>
+    </item>
+    
+    <item>
+      <title>Challenge Specifics</title>
+      <link>/1_moduleone/12_technicalissue_problem.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/12_technicalissue_problem.html</guid>
+      <description>Challenge Specifics Submodule Two Heading This paragraph block should be an introduction to the technical issue the solution is facing. An example of this can be seen at the bottom of this page. Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.
+Example of content guidance Deploy Without Worry Deployments with Kubernetes? Kubernetes (k8s) is a container orchestration platform allowing organizations to scale their services and workloads quickly.</description>
+    </item>
+    
+    <item>
+      <title>Configuring the Keychain</title>
+      <link>/2_moduletwo_setup/22_configkeychain.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/22_configkeychain.html</guid>
+      <description>Configuring the Keychain In order to get accurate and detailed information about servers and services, the Application Discovery requires server Credentials to access information. Keychains are lists of Credentials.
+Create a new Keychain First, we&amp;rsquo;ll need to create a new Keychain. Navigate to the Discovery menu on the (left nav bar) and select the sub-menu item title Keychains.
+Click the blue plus sign button in the upper right hand corner to start the Keychain creation process.</description>
+    </item>
+    
+    <item>
+      <title>About CloudSphere</title>
+      <link>/1_moduleone/13_whoweare.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/13_whoweare.html</guid>
+      <description>About CloudSphere A little about us&amp;hellip; CloudSphere was founded through a merger of two companies, Hypergrid and iQuate. With legacy roots in cloud asset management and software asset management, an industry-leading cloud governance was created to meet the needs of businesses.
+CloudSphere is an AWS ISV Partner and part of the APN Partner program with competencies in Migration &amp;amp; Modernization and Cloud Operations Software. CloudSphere can be procured through the AWS Marketplace or via Private Offer.</description>
+    </item>
+    
+    <item>
+      <title>Creatinging a Scan Scope</title>
+      <link>/2_moduletwo_setup/23_configscanscope.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/23_configscanscope.html</guid>
+      <description>Creatinging a Scan Scope CloudSphere CAM discovers devices that exist in your IT universe by executing Scan Jobs. The Scan jobs scan endpoints within a specified network boundary (Subnets, IP Ranges, IPs), which is defined using Scan Scope(s).
+While configuring a Scan Job we first need to identify and define Scan Scope(s), and eventually add them to it.
+A Scan Scope provides a list of target IP addresses or hostnames that we want to be scanned while we execute a Scan Job.</description>
+    </item>
+    
+    <item>
+      <title>Configuring the Scan Job</title>
+      <link>/2_moduletwo_setup/24_configscanjob.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/24_configscanjob.html</guid>
+      <description>Configuring the Scan Job Now that we have our Keychain and Scope configured, we can configure our Scan Job
+Create New Scan Job Navigate to the Discovery menu in the left nav and click on the sub-menu titled Scan Jobs.
+In the upper right hand corner, click the blue plus sign.
+Add a name to the job and a description as desired and click the button titled Create New Scan Job</description>
+    </item>
+    
+    <item>
+      <title>Workshop Prerequisites</title>
+      <link>/1_moduleone/14_workshopprerequisites.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/14_workshopprerequisites.html</guid>
+      <description>Workshop Prerequisites Before we get started In order to engage in this hands-on workshop, you will need to have a user provisioned on two CloudSphere tenants. If you haven&amp;rsquo;t already received your access credentials, please use the below link to complete the user request form.
+Access request link
+Once you receive the access email, you will be provided with a number of credentials and important details for the workshop. In addition to the necessary access, it is expected that you have completed the L200 training related to CloudSphere.</description>
+    </item>
+    
+    <item>
+      <title>Start Scan Job</title>
+      <link>/2_moduletwo_setup/25_startscanjob.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/25_startscanjob.html</guid>
+      <description>Starting your Scan Job Now that you have configured your Scan Job, it&amp;rsquo;s time to scan the environment.
+Executing a Scan Job Select the Scan Job created in the previous step
+Click the large blue Start button in the upper left side of the screen
+You can also cancel the Scan Job from this screen at any time.
+Reviewing a Scan Job Status Once the Scan Job kicks off, you&amp;rsquo;ll see a real-time progress bar indicating the status of the Scan Job</description>
+    </item>
+    
+    <item>
+      <title>Workshop Next Steps</title>
+      <link>/1_moduleone/15_nextsteps.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/15_nextsteps.html</guid>
+      <description>Workshop Next Steps Submodule Five Heading This paragraph block should be an brief explanation of the next steps to take after the prerequisites have been set up. Diagrams or code samples can be shown to give a visual explanation of what will be taking place during the building of the solution. An example of content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>Scan Results Review</title>
+      <link>/2_moduletwo_setup/26_scanresults.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2_moduletwo_setup/26_scanresults.html</guid>
+      <description>Scan Results Review Once the discovery is done, all the data (servers and services scanned) will be populated in the IT Explorer view in the UI.
+From the computer systems, processes, and communication details captured, the following sub-sections of data are created:
+Services Servers Found Groups Applications Found Applications Services Services identify groups of related applications that provide one or more functions.
+For instance, a Microsoft Exchange system is made of a number of Exchange Servers and Stores that together, form a single system providing an email Service.</description>
+    </item>
+    
+  </channel>
+</rss>

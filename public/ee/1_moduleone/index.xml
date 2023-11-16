@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Event Engine Setup</title>
+    <link>/ee/1_moduleone.html</link>
+    <description>Recent content in Introduction on Event Engine Setup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ee</language><atom:link href="/ee/1_moduleone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foreword</title>
+      <link>/ee/1_moduleone/11_foreword.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/11_foreword.html</guid>
+      <description>Foreword Submodule One Heading This paragraph block should be an explanation of an existing problem and how the partner has worked to achieve a solution for it. Example content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.
+Example Content Guidance The nature of software development has fundamentally changed Teams and organizations are releasing code at a record breaking pace and only getting faster.</description>
+    </item>
+    
+    <item>
+      <title>Technical Issue / Problem</title>
+      <link>/ee/1_moduleone/12_technicalissue_problem.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/12_technicalissue_problem.html</guid>
+      <description>Technical Issue / Problem Submodule Two Heading This paragraph block should be an introduction to the technical issue the solution is facing. An example of this can be seen at the bottom of this page. Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.
+Example of content guidance Deploy Without Worry Deployments with Kubernetes? Kubernetes (k8s) is a container orchestration platform allowing organizations to scale their services and workloads quickly.</description>
+    </item>
+    
+    <item>
+      <title>Who We Are</title>
+      <link>/ee/1_moduleone/13_whoweare.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/13_whoweare.html</guid>
+      <description>Who Are We? Submodule Three Heading This paragraph block should be a brief introduction to the partner, their history, goals, partnerships, and accolades. Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Prerequisites</title>
+      <link>/ee/1_moduleone/14_workshopprerequisites.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/14_workshopprerequisites.html</guid>
+      <description>Workshop Prerequisites Submodule Four Heading This paragraph block should be an introduction to the submodule. Are there any prerequisites the user must perform to begin the workshop? Do they need to sign up for any external accounts or install any tools? An example of content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Next Steps</title>
+      <link>/ee/1_moduleone/15_nextsteps.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ee/1_moduleone/15_nextsteps.html</guid>
+      <description>Workshop Next Steps Submodule Five Heading This paragraph block should be an brief explanation of the next steps to take after the prerequisites have been set up. Diagrams or code samples can be shown to give a visual explanation of what will be taking place during the building of the solution. An example of content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+  </channel>
+</rss>

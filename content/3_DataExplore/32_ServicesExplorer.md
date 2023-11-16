@@ -1,5 +1,5 @@
 ---
-title: "Services Explorer" 
+title: "Services in the Explorer UI" 
 chapter: true
 weight: 2 
 ---

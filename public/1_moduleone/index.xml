@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on English</title>
+    <link>/1_moduleone.html</link>
+    <description>Recent content in Introduction on English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/1_moduleone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop Background</title>
+      <link>/1_moduleone/11_foreword.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/11_foreword.html</guid>
+      <description>Workshop Background The Market Challenge IT estates are increasingly complex and are typically spread across physical and virtual infrastructure. CloudSphere gives AWS and it&amp;rsquo;s partners complete IT estate inventories, along with mapping of communications and dependencies. With these inventories and maps, clients can move to the cloud with confidence, while minimizing risk.
+Challenge Specifics Next, we&amp;rsquo;ll get in to the specifics of the challenges</description>
+    </item>
+    
+    <item>
+      <title>Challenge Specifics</title>
+      <link>/1_moduleone/12_technicalissue_problem.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/12_technicalissue_problem.html</guid>
+      <description>Challenge Specifics Submodule Two Heading This paragraph block should be an introduction to the technical issue the solution is facing. An example of this can be seen at the bottom of this page. Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.
+Example of content guidance Deploy Without Worry Deployments with Kubernetes? Kubernetes (k8s) is a container orchestration platform allowing organizations to scale their services and workloads quickly.</description>
+    </item>
+    
+    <item>
+      <title>About CloudSphere</title>
+      <link>/1_moduleone/13_whoweare.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/13_whoweare.html</guid>
+      <description>About CloudSphere A little about us&amp;hellip; CloudSphere was founded through a merger of two companies, Hypergrid and iQuate. With legacy roots in cloud asset management and software asset management, an industry-leading cloud governance was created to meet the needs of businesses.
+CloudSphere is an AWS ISV Partner and part of the APN Partner program with competencies in Migration &amp;amp; Modernization and Cloud Operations Software. CloudSphere can be procured through the AWS Marketplace or via Private Offer.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Prerequisites</title>
+      <link>/1_moduleone/14_workshopprerequisites.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/14_workshopprerequisites.html</guid>
+      <description>Workshop Prerequisites Before we get started In order to engage in this hands-on workshop, you will need to have a user provisioned on two CloudSphere tenants. If you haven&amp;rsquo;t already received your access credentials, please use the below link to complete the user request form.
+Access request link
+Once you receive the access email, you will be provided with a number of credentials and important details for the workshop. In addition to the necessary access, it is expected that you have completed the L200 training related to CloudSphere.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Next Steps</title>
+      <link>/1_moduleone/15_nextsteps.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1_moduleone/15_nextsteps.html</guid>
+      <description>Workshop Next Steps Submodule Five Heading This paragraph block should be an brief explanation of the next steps to take after the prerequisites have been set up. Diagrams or code samples can be shown to give a visual explanation of what will be taking place during the building of the solution. An example of content guidance can be found at the bottom of this page.
+Next Section Heading This paragraph block can optionally be utilized to lead into the next section of the workshop.</description>
+    </item>
+    
+  </channel>
+</rss>
